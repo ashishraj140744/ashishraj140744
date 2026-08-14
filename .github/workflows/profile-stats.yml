@@ -1,0 +1,70 @@
+name: Update profile stats
+
+'on':
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-stats.yml"
+      - "projects.json"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  contribution-snake:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ashishraj140744
+          outputs: |
+            dist/snake-light.svg?color_snake=22D3EE&color_dots=#ebedf0,#c7d2fe,#a78bfa,#22d3ee,#10b981
+            dist/snake-dark.svg?palette=github-dark&color_snake=22D3EE&color_dots=#161b22,#30363d,#4c1d95,#0891b2,#10b981
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish generated snake to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
+          full_commit_message: "chore: update contribution snake"
+
+  project-panel:
+    name: Update project panel
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch GitHub project data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/fetch_data.py
+
+      - name: Generate project SVGs
+        run: python3 scripts/generate_projects.py
+
+      - name: Commit generated project assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add projects/merged.json projects/projects.svg projects/projects-light.svg
+          git diff --cached --quiet || git commit -m "chore: update project panel"
+          git push

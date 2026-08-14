@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Smart Bank Pro",
+    "repo": "ashishraj140744/Smart_Bank_Pro",
+    "description": "A Python banking project focused on practical application design.",
+    "tags": [
+      "Python",
+      "OOP",
+      "Data"
+    ],
+    "stars": 0,
+    "languages": {},
+    "pushed_at": null
+  },
+  {
+    "name": "Student Analytics",
+    "repo": "ashishraj140744/Student-Analytics-System",
+    "description": "Student management and academic analytics built with Python.",
+    "tags": [
+      "Python",
+      "Pandas",
+      "NumPy"
+    ],
+    "stars": 0,
+    "languages": {},
+    "pushed_at": null
+  },
+  {
+    "name": "Drum Kit",
+    "repo": "ashishraj140744/drum-kit",
+    "description": "An interactive browser drum kit with keyboard and click controls.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "stars": 0,
+    "languages": {},
+    "pushed_at": null
+  }
+]
