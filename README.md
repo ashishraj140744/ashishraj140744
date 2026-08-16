@@ -1,10 +1,10 @@
-<!-- ===== THEME-AWARE HERO ===== -->
+<!-- ===== ANIMATED DEVELOPER HERO ===== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishraj140744/ashishraj140744/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishraj140744/ashishraj140744/main/light.svg">
-  <img alt="Ashish Raj" src="https://raw.githubusercontent.com/ashishraj140744/ashishraj140744/main/light.svg">
-</picture>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ashishraj140744/ashishraj140744/main/assets/ashish-dev-transform.gif" alt="Ashish Raj animated developer profile: portrait transforming into HTML, CSS, JavaScript, Python, React, Node.js, PostgreSQL and GitHub">
+</p>
+
+<!-- The animation cycles from the dithered portrait into developer technology icons, inspired by the supplied reference video. -->
 
 <!-- ===== ACTIVITY GRAPH ===== -->
 
@@ -15,6 +15,26 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashishraj140744&theme=tokyo-night&hide_border=true&area=true&custom_title=Ashish%20Raj%27s%20GitHub%20Activity">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashishraj140744&theme=github-compact&hide_border=true&area=true&custom_title=Ashish%20Raj%27s%20GitHub%20Activity">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishraj140744&theme=github-compact&hide_border=true&area=true&custom_title=Ashish%20Raj%27s%20GitHub%20Activity" alt="Ashish Raj GitHub activity graph">
+  </picture>
+</div>
+
+<!-- ===== SECOND CONTRIBUTION GRAPH ===== -->
+
+<h2 align="center">CONTRIBUTIONS — LAST YEAR</h2>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishraj140744&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true&custom_title=Contributions%20in%20the%20Last%20Year" alt="Ashish Raj contributions in the last year">
+</div>
+
+<!-- ===== CONTRIBUTION OVERVIEW ===== -->
+
+<h2 align="center">CONTRIBUTION OVERVIEW</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishraj140744&theme=github_dark&animation=draw&duration=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishraj140744&theme=github&animation=draw&duration=4">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishraj140744&theme=github&animation=draw&duration=4" alt="Ashish Raj GitHub contribution overview">
   </picture>
 </div>
 
