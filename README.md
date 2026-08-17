@@ -48,6 +48,142 @@
   <img src="https://komarev.com/ghpvc/?username=ashishraj140744&label=PROFILE+VIEWS&color=22D3EE&style=for-the-badge" alt="Profile views">
 </div>
 
+<!-- ===== SKILL TREE ===== -->
+
+<h2>🌳 Skill Tree (Structured Systems View)</h2>
+
+> Skills unlocked through repetition, projects, documentation, and controlled chaos.
+
+<h3>🧩 Core Programming Languages</h3>
+
+<table>
+<tr>
+<td align="center" width="110">
+<strong>Python</strong><br><br>
+<img src="https://skillicons.dev/icons?i=python" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>C++</strong><br><br>
+<img src="https://skillicons.dev/icons?i=cpp" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>C</strong><br><br>
+<img src="https://skillicons.dev/icons?i=c" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>JavaScript</strong><br><br>
+<img src="https://skillicons.dev/icons?i=javascript" width="50">
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3>🌐 Frontend Development</h3>
+
+<table>
+<tr>
+<td align="center" width="110">
+<strong>HTML</strong><br><br>
+<img src="https://skillicons.dev/icons?i=html" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>CSS</strong><br><br>
+<img src="https://skillicons.dev/icons?i=css" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>React</strong><br><br>
+<img src="https://skillicons.dev/icons?i=react" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>Bootstrap</strong><br><br>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50">
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3>⚙️ Backend & Databases</h3>
+
+<table>
+<tr>
+<td align="center" width="110">
+<strong>Node.js</strong><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>Express.js</strong><br><br>
+<img src="https://skillicons.dev/icons?i=express" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>PostgreSQL</strong><br><br>
+<img src="https://skillicons.dev/icons?i=postgres" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>MySQL</strong><br><br>
+<img src="https://skillicons.dev/icons?i=mysql" width="50">
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3>📊 Data & Scientific Computing</h3>
+
+<table>
+<tr>
+<td align="center" width="110">
+<strong>NumPy</strong><br><br>
+<img src="https://skillicons.dev/icons?i=numpy" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>Pandas</strong><br><br>
+<img src="https://skillicons.dev/icons?i=pandas" width="50">
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3>🛠️ Tools & Platforms</h3>
+
+<table>
+<tr>
+<td align="center" width="110">
+<strong>Git</strong><br><br>
+<img src="https://skillicons.dev/icons?i=git" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>GitHub</strong><br><br>
+<img src="https://skillicons.dev/icons?i=github" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>VS Code</strong><br><br>
+<img src="https://skillicons.dev/icons?i=vscode" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>Postman</strong><br><br>
+<img src="https://skillicons.dev/icons?i=postman" width="50">
+</td>
+</tr>
+</table>
+
+<hr>
+
 <!-- ===== SOCIAL ===== -->
 
 <br/>
