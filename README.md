@@ -50,9 +50,8 @@
 
 <!-- ===== SKILL TREE ===== -->
 
-<h2>🌳 Skill Tree (Structured Systems View)</h2>
+<h2>🌳 Skill Tree </h2>
 
-> Skills unlocked through repetition, projects, documentation, and controlled chaos.
 
 <h3>🧩 Core Programming Languages</h3>
 
