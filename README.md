@@ -6,18 +6,6 @@
   <img alt="Ashish Raj" src="https://raw.githubusercontent.com/ashishraj140744/ashishraj140744/main/light.svg">
 </picture>
 
-<!-- ===== ACTIVITY GRAPH ===== -->
-
-<h2 align="center">ACTIVITY GRAPH</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashishraj140744&theme=tokyo-night&hide_border=true&area=true&custom_title=Ashish%20Raj%27s%20GitHub%20Activity">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashishraj140744&theme=github-compact&hide_border=true&area=true&custom_title=Ashish%20Raj%27s%20GitHub%20Activity">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishraj140744&theme=github-compact&hide_border=true&area=true&custom_title=Ashish%20Raj%27s%20GitHub%20Activity" alt="Ashish Raj GitHub activity graph">
-  </picture>
-</div>
-
 <!-- ===== CONTRIBUTION OVERVIEW ===== -->
 
 <h2 align="center">CONTRIBUTION OVERVIEW</h2>
