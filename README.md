@@ -1,12 +1,10 @@
 <!-- ===== PROFILE INTRO===== -->
 
-<p align="center">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi%2C+I'm+Ashish+Raj+%F0%9F%91%8B;Computer+Science+%7C+AI+%26+ML+Student;Python+%7C+Full+Stack+Developer;Building+Projects+%26+Learning+Every+Day&center=true&size=30"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hi%2C+I'm+Ashish+Raj+%F0%9F%91%8B;CSE+%7C+AI+%26+ML+Student;Python+%7C+Full+Stack+Developer;Building+%26+Learning+Every+Day&center=true&size=28" />
   </a>
 </h1>
-</p>
 
 <!-- ===== THEME-AWARE HERO ===== -->
 
@@ -94,6 +92,11 @@
 </td>
 
 <td align="center" width="110">
+<strong>Tailwind CSS</strong><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
+</td>
+
+<td align="center" width="110">
 <strong>React</strong><br><br>
 <img src="https://skillicons.dev/icons?i=react" width="50">
 </td>
@@ -113,13 +116,14 @@
 <tr>
 <td align="center" width="110">
 <strong>Node.js</strong><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50">
 </td>
 
 <td align="center" width="110">
 <strong>Express.js</strong><br><br>
 <img src="https://skillicons.dev/icons?i=express" width="50">
 </td>
+
 
 <td align="center" width="110">
 <strong>PostgreSQL</strong><br><br>
@@ -175,6 +179,11 @@
 <td align="center" width="110">
 <strong>Postman</strong><br><br>
 <img src="https://skillicons.dev/icons?i=postman" width="50">
+</td>
+
+<td align="center" width="110">
+<strong>Vercel</strong><br><br>
+<img src="https://skillicons.dev/icons?i=vercel" width="50">
 </td>
 </tr>
 </table>
