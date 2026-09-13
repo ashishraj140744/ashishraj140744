@@ -1,3 +1,13 @@
+<!-- ===== PROFILE INTRO===== -->
+
+<p align="center">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi%2C+I'm+Ashish+Raj+%F0%9F%91%8B;Computer+Science+%7C+AI+%26+ML+Student;Python+%7C+Full+Stack+Developer;Building+Projects+%26+Learning+Every+Day&center=true&size=30"/>
+  </a>
+</h1>
+</p>
+
 <!-- ===== THEME-AWARE HERO ===== -->
 
 <picture>
