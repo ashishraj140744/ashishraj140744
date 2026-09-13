@@ -131,12 +131,14 @@
 <tr>
 <td align="center" width="110">
 <strong>NumPy</strong><br><br>
-<img src="https://numpy.org/press-kit/" width="50">
+<img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c9733fec-deab-496e-adee-eb0f62212a92" />
+" width="50">
 </td>
 
 <td align="center" width="110">
 <strong>Pandas</strong><br><br>
-<img src="https://pandas.pydata.org/about/citing.html" width="50">
+<img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b6938c5e-2d0e-4a00-bd50-d1739e08d428" />
+" width="50">
 </td>
 </tr>
 </table>
