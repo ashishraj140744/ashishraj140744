@@ -131,12 +131,12 @@
 <tr>
 <td align="center" width="110">
 <strong>NumPy</strong><br><br>
-<img src="https://skillicons.dev/icons?i=numpy" width="50">
+<img src="https://numpy.org/press-kit/" width="50">
 </td>
 
 <td align="center" width="110">
 <strong>Pandas</strong><br><br>
-<img src="https://skillicons.dev/icons?i=pandas" width="50">
+<img src="https://pandas.pydata.org/about/citing.html" width="50">
 </td>
 </tr>
 </table>
